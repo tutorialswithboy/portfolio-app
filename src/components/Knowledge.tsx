@@ -48,7 +48,7 @@ const knowledges: KnowledgeArea[] = [
 function Knowledge() {
   return (
     <div>
-      <div className="p-6 rounded-3xl border border-gray-100 dark:border-gray-700 dark:contrast-more:border-gray-600 motion-safe:transition">
+      <div className="p-6 rounded-3xl border border-gray-200 dark:border-gray-700 dark:contrast-more:border-gray-600 motion-safe:transition">
         <h2 className="flex items-center text-lg font-display-safe font-semibold mb-4 dark:text-gray-200 dark:contrast-more:text-gray-100 motion-safe:transition">
           <CommandLineIcon
             aria-hidden="true"
